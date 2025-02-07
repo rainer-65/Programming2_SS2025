@@ -1,6 +1,5 @@
 package lecture01.exam;
 
-
 public class Square implements Comparable<Square> {
     int length; // side length of the square
 

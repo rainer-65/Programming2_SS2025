@@ -2,8 +2,7 @@ package lecture01.exam;
 
 public class Sum {
 
-    public int sumRange(int start, int end)
-    {
+    public int sumRange(int start, int end) {
         int sum = 0;
         if (end < start)
             System.out.println("ERROR: Invalid Range");
@@ -12,8 +11,6 @@ public class Sum {
                 sum += num;
         return sum;
     }
-
-
 
 
 }

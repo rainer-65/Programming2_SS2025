@@ -1,5 +1,6 @@
 package lecture01.exam;
 
+
 class Shape extends Object {
 }
 
