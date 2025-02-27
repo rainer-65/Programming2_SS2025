@@ -25,9 +25,9 @@ public class ShapeCasting {
         Circle c2 = (Circle) g1; // Line 3
         Rectangle r1 = (Square2) g2; // Line 4
         Object o2 = new Rectangle(); // Line 5
-        Circle c3 = g3; // Line 6
+        // Circle c3 = g3; // Line 6
         Square2 s1 = (Square2) g2; // Line 7
-        Rectangle r2 = new Object(); // Line 8
+        // Rectangle r2 = new Object(); // Line 8
 
     }
 
